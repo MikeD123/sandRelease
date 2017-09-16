@@ -62,5 +62,7 @@ function depositMoney () payable{}
 function closeSafe() onlyOwner{status = 0;}
 
 // This is a good example of where you could include something like https://github.com/MikeD123/Password
+// This uses the onlyOwner modifier. That's not really needed, you should make this accessible as a kill switch from a 
+// number of wallets. Either way, make sure it's sending to that cold storage!
 function compromised() onlyOwner{cold.transfer(this.balance);}
 }
