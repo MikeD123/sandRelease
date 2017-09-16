@@ -49,9 +49,9 @@ Platforms could adopt a different architecture to the usual balance of hot walle
 
 **Cold Storage** - Impractical for accessibility. All or nothing solution.
 
-Could be crazy, and this may already exist, but I've yet to see it and feel like I've got a pretty good understanding of the platforms/products offered in the industry. Could be wrong. Fun project either way!
+This was a fun project to do, and would appreciate any feedback as I'm new to writing Solidity! 
 
-Thanks so much!
+Thanks so much :)
 
 Kind regards,
 
